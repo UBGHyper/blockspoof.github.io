@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.example-url {
+  font-size: 16px;
+  color: #666;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+.learn-more-btn {
+  margin-right: 10px;
+}
+
+.hide-advanced-btn {
+  margin-right: 10px;
+}
+
+.back-to-safety-btn {
+  background-color: #008CBA;
+}
+
+.error-code {
+  font-size: 14px;
+  color: #666;
+}
+
+.help-improve {
+  font-size: 14px;
+  color: #666;
+}
+
+.privacy-policy {
+  text-decoration: none;
+  color: #337ab7;
+}
